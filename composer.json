@@ -24,8 +24,7 @@
 		"kartik-v/yii2-context-menu": "*",
 		"almasaeed2010/adminlte": "~2.0",
 		"2amigos/yii2-chartjs-widget" : "~2.0",
-		"vova07/yii2-imperavi-widget": "*",
-		"makhov/opentbs": "dev-master"
+		"vova07/yii2-imperavi-widget": "*"
     },
     "autoload": {
         "psr-4": {
