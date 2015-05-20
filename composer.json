@@ -25,7 +25,7 @@
 		"almasaeed2010/adminlte": "~2.0",
 		"2amigos/yii2-chartjs-widget" : "~2.0",
 		"vova07/yii2-imperavi-widget": "*",
-		"makhov/opentbs": "*"
+		"makhov/opentbs": "dev-master"
     },
     "autoload": {
         "psr-4": {
