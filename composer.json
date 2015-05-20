@@ -13,7 +13,7 @@
     "require": {
 		"mdmsoft/yii2-admin": "~1.0",
 		"phpoffice/phpexcel": "*",
-		"miloschuman/yii2-highcharts-widget": "*",
+		"miloschuman/yii2-highcharts-widget": "v4.1.5",
 		"kartik-v/yii2-widgets": "*",
 		"kartik-v/yii2-grid": "*",
 		"kartik-v/yii2-datecontrol": "*",
