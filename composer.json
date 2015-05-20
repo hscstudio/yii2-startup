@@ -12,7 +12,7 @@
     ],
     "require": {
 		"mdmsoft/yii2-admin": "~1.0",
-		"phpoffice/phpexcel": "dev-master",
+		"phpoffice/phpexcel": "~1.8",
 		"miloschuman/yii2-highcharts-widget": "dev-master",
 		"kartik-v/yii2-widgets": "*",
 		"kartik-v/yii2-grid": "*",
