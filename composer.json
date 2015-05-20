@@ -13,19 +13,19 @@
     "require": {
 		"mdmsoft/yii2-admin": "~1.0",
 		"phpoffice/phpexcel": "*",
-		"miloschuman/yii2-highcharts-widget": "dev-master",
+		"miloschuman/yii2-highcharts-widget": "*",
 		"kartik-v/yii2-widgets": "*",
 		"kartik-v/yii2-grid": "*",
-		"kartik-v/yii2-datecontrol": "dev-master",
-		"kartik-v/yii2-social": "dev-master",
-		"kartik-v/yii2-icons": "dev-master",
-		"kartik-v/yii2-mpdf": "dev-master",		
+		"kartik-v/yii2-datecontrol": "*",
+		"kartik-v/yii2-social": "*",
+		"kartik-v/yii2-icons": "*",
+		"kartik-v/yii2-mpdf": "*",		
 		"kartik-v/yii2-tree-manager": "*",
 		"kartik-v/yii2-context-menu": "*",
 		"almasaeed2010/adminlte": "~2.0",
 		"2amigos/yii2-chartjs-widget" : "~2.0",
 		"vova07/yii2-imperavi-widget": "*",
-		"makhov/opentbs": "dev-master"
+		"makhov/opentbs": "*"
     },
     "autoload": {
         "psr-4": {
